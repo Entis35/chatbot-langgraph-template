@@ -1,0 +1,8 @@
+openai >= 1.68.2
+anthropic >= anthropic
+langchain >= 0.3.19
+langgraph >= 0.3.18
+langchain_anthropic >= 0.3.10
+langchain_openai >= 0.3.9
+langchain-qdrant >= 0.2.0
+qdrant-client >= 1.13.3
