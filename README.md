@@ -7,3 +7,6 @@ Chatbot-LangGraph_v2 is the notebook for the 2nd video : https://www.youtube.com
 I am also attaching the url references I have used and might be useful you for further development of the codes:
  - LangGraph: https://langchain-ai.github.io/langgraph/tutorials/workflows/
  - Qdrant: https://qdrant.tech/documentation/
+
+ Before running the jupyter notebooks, please make sure you have docker client installed on you machine and then run the following command to activate the qdrant localhost:
+ - docker run -p 6333:6333 qdrant/qdrant
