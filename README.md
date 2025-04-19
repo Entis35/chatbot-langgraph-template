@@ -12,6 +12,6 @@ I am also attaching the url references I have used and might be useful for you f
  - docker run -p 6333:6333 qdrant/qdrant
 
  For running the notebooks, please run it following the below sequence:
- 0. Offline part: Setting up vector database and the data processing for data extraction and vector embedding
- 1. Constructing the basic langGraph flow
- 2. Let's enhance it where we will keep the conversation state using "graph.invoke"
+    0. Offline part: Setting up vector database and the data processing for data extraction and vector embedding
+    1. Constructing the basic langGraph flow
+    2. Let's enhance it where we will keep the conversation state using "graph.invoke"
